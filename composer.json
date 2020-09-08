@@ -9,7 +9,7 @@
     "repositories": [
         {
             "type": "composer",
-            "url": "https://satis.mailcoach.app"
+            "url": "https://satis.spatie.be"
         }
     ],
     "license": "MIT",
